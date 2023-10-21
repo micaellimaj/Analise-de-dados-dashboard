@@ -41,3 +41,17 @@ de cada produto em $;
 
 ## Importações Python:
 
+
+```
+import math
+from typing import Iterator
+from datetime import datetime, timedelta
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
+import pandas as pd
+from IPython.display import Image, display
+import plotly.express as px
+import seaborn.objects as so
+```
+
