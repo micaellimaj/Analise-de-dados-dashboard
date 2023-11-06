@@ -6,7 +6,7 @@ O conjunto de dados utilizado pode ser encontrado no seguinte link:  https://www
 
 ## Painel:
 
-Para o desenvovimento desse relatório tivemos que passar por diversas fases de processamneto dos dados para deixá-lo no formato ideal para o power BI, além de termos trabalhado bastante no visual do relatório e de como iriamos apresentar as informações para a geração de insights. Segue abaixo o link para o relatório:
+Para o desenvovimento desse relatório tivemos que passar por diversas fases de processamneto dos dados para deixá-lo no formato ideal para o power BI, além de termos trabalhado bastante no visual do relatório e de como iriamos apresentar as informações para a geração de insights. Segue abaixo o link para o relatório: https://bit.ly/Micael-Lima-Analista-de-dados-Relatorio-supermercados
 
 ## Tecnologias utilizadas:
 
