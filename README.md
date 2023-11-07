@@ -39,6 +39,15 @@ de cada produto em $;
 
 ## Desenvolvimento:
 
+Foram aplicadas diversas técnicas para o desenvolvimento desse projeto, tais como:
+
+* Importação, exploração da base de dados trabalhada.
+* Manipulação e transformação de dados para o formato desejado.
+* Salvamento de dados após a transformação dos dados para seu uso no power BI
+* Analises da distribuição dos dados e visualizações gráficas.
+* Analises financeiras a respeito dos dados e entendimento do negócio.
+* Desenvolvimento de um relatório financeiro no power BI.
+* Realização de trabalho com design de layout do BI no Power point.
 ## Importações Python:
 
 
@@ -54,4 +63,13 @@ from IPython.display import Image, display
 import plotly.express as px
 import seaborn.objects as so
 ```
+
+## Referências
+
+* https://plotly.com/graphing-libraries/
+* https://seaborn.pydata.org/index.html
+* https://www.flaticon.com/
+* https://www.youtube.com/@ItaloDiegoTeotonio
+* https://br.freepik.com/
+* https://ebaconline.com.br/
 
