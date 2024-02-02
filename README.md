@@ -48,6 +48,7 @@ Foram aplicadas diversas técnicas para o desenvolvimento desse projeto, tais co
 * Analises financeiras a respeito dos dados e entendimento do negócio.
 * Desenvolvimento de um relatório financeiro no power BI.
 * Realização de trabalho com design de layout do BI no Power point.
+  
 ## Importações Python:
 
 
@@ -63,6 +64,29 @@ from IPython.display import Image, display
 import plotly.express as px
 import seaborn.objects as so
 ```
+
+## Organização do Projeto:
+------------
+
+
+    
+    │
+    ├── LICENSE
+    │
+    ├── README.md                 <- O Readme de nível superior para desenvolvedores que usam esse projeto.
+    │
+    ├── Personalização            <- Contém imagens utilizadas para deixar o caderno apresentável para o usuário.
+    │
+    ├── Relatórios                <- Coleção de capturas de tela sobre todo o processo de análise de dados no google colab.
+    │
+    ├── dashboard                 <- Contém imagens referente ao layot do relatório do power BI.
+    │
+    ├── Documentos                <- datasets utilizados no projeto.
+    │  
+    └── Notebook                  <- caderno jupyter notebook utilizado para contrução e apresentação do projeto
+    
+
+
 
 ## Referências
 
